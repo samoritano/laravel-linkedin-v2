@@ -22,7 +22,7 @@
         "illuminate/support": "~5.0",
         "bokokode/linkedin-v2-api-client": "@dev",
         "php-http/guzzle6-adapter": "^1.1",
-        "php-http/curl-client": "^1.7",
+        "php-http/curl-client": "^2.0",
         "guzzlehttp/psr7": "^1.4",
         "php-http/message": "^1.5"
     },
