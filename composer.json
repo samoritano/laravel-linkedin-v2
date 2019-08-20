@@ -1,14 +1,19 @@
 {
-    "name": "artesaos/laravel-linkedin",
+    "name": "bokokode/laravel-linkedin-v2",
     "type": "library",
-    "description": "Linkedin API integration for Laravel and Lumen 5",
+    "description": "Linkedin V2 API integration for Laravel and Lumen 5",
     "keywords": ["LinkedIn","Laravel Framework","Lumen","API","Client","SDK","Integration","REST"],
     "license": "MIT",
     "authors": [
         {
             "name": "Mauri de Souza Nunes",
             "email": "mauri870@gmail.com"
-        }
+        },
+        {
+            "name": "Samori Bokokó",
+            "email": "samori@bokokode.com"
+        },
+
     ],
     "require": {
         "php": ">=5.5.9",
@@ -27,12 +32,27 @@
     },
     "autoload": {
         "psr-4": {
-            "Artesaos\\LinkedIn\\": "src/Artesaos/LinkedIn/"
+            "Bokokode\\LinkedIn\\": "src/Bokokode/LinkedIn/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Artesaos\\LinkedIn\\Tests\\": "tests"
+            "Bokokode\\LinkedIn\\Tests\\": "tests"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "package",
+            "package": {
+                "name": "samoritano/linkedin-v2-api-client",
+                "version": "@dev",
+                "type": "package",
+                "source": {
+                    "url": "git@github.com:samoritano/LinkedIn-V2-API-client.git",
+                    "type": "git",
+                    "reference": "master"
+                }
+            }
+        }
+    ]
 }

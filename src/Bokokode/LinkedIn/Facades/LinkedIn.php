@@ -7,7 +7,7 @@
  * @license   https://opensource.org/licenses/MIT MIT License
  */
 
-namespace Artesaos\LinkedIn\Facades;
+namespace Bokokode\LinkedIn\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

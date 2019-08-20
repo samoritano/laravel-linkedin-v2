@@ -7,8 +7,8 @@
  * @license   https://opensource.org/licenses/MIT MIT License
  */
 
-namespace Artesaos\LinkedIn\Tests;
-use Artesaos\LinkedIn\Facades\LinkedIn;
+namespace Bokokode\LinkedIn\Tests;
+use Bokokode\LinkedIn\Facades\LinkedIn;
 
 class LinkedinTest extends AbstractTestCase
 {

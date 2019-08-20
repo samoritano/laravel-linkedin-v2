@@ -1,10 +1,10 @@
 <?php
 
-namespace Artesaos\LinkedIn\Tests;
+namespace Bokokode\LinkedIn\Tests;
 
 use Orchestra\Testbench\TestCase;
-use Artesaos\LinkedIn\LinkedinServiceProvider;
-use Artesaos\LinkedIn\Facades\LinkedIn;
+use Bokokode\LinkedIn\LinkedinServiceProvider;
+use Bokokode\LinkedIn\Facades\LinkedIn;
 
 abstract class AbstractTestCase extends TestCase
 {

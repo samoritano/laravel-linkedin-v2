@@ -6,7 +6,7 @@
  * @license   https://opensource.org/licenses/MIT MIT License
  */
 
-namespace Artesaos\LinkedIn;
+namespace Bokokode\LinkedIn;
 
 use Http\Adapter\Guzzle6\Client;
 use Illuminate\Support\ServiceProvider;

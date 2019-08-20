@@ -6,7 +6,7 @@
  * @license   https://opensource.org/licenses/MIT MIT License
  */
 
-namespace Artesaos\LinkedIn;
+namespace Bokokode\LinkedIn;
 
 use Happyr\LinkedIn\LinkedIn;
 
