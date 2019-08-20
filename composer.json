@@ -20,7 +20,7 @@
         "illuminate/contracts": "~5.0",
         "illuminate/http": "~5.0",
         "illuminate/support": "~5.0",
-        "bokokode/linkedin-v2-api-client": "1.4.1",
+        "bokokode/linkedin-v2-api-client": "^1.4",
         "php-http/guzzle6-adapter": "~2.0",
         "php-http/curl-client": "^2.0",
         "guzzlehttp/psr7": "^1.6",
