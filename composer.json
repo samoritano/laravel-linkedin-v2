@@ -1,5 +1,5 @@
 {
-    "name": "bokokode/laravel-linkedin-v2-tmp",
+    "name": "bokokode/laravel-linkedin-v2",
     "type": "library",
     "description": "Linkedin V2 API integration for Laravel and Lumen 5",
     "keywords": ["LinkedIn","Laravel Framework","Lumen","API","Client","SDK","Integration","REST"],
@@ -50,7 +50,7 @@
                 "source": {
                     "url": "git@github.com:samoritano/linkedin-api-php-client-v2.git",
                     "type": "git",
-                    "reference": "develop"
+                    "reference": "master"
                 }
             }
         }
