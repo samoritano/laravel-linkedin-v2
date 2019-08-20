@@ -20,7 +20,7 @@
         "illuminate/contracts": "~5.0",
         "illuminate/http": "~5.0",
         "illuminate/support": "~5.0",
-        "bokokode/linkedin-v2-api-client": "dev-master",
+        "bokokode/linkedin-v2-api-client": "@dev",
         "php-http/guzzle6-adapter": "^1.1",
         "php-http/curl-client": "^1.7",
         "guzzlehttp/psr7": "^1.4",
@@ -45,12 +45,12 @@
             "type": "package",
             "package": {
                 "name": "bokokode/linkedin-v2-api-client",
-                "version": "dev-master",
+                "version": "@dev",
                 "type": "package",
                 "source": {
                     "url": "git@github.com:samoritano/linkedin-api-php-client-v2.git",
                     "type": "git",
-                    "reference": "master"
+                    "reference": "dev-master"
                 }
             }
         }
