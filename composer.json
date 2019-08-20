@@ -12,7 +12,7 @@
         {
             "name": "Samori Bokokó",
             "email": "samori@bokokode.com"
-        },
+        }
 
     ],
     "require": {
@@ -32,12 +32,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Bokokode\\LinkedIn\\": "src/Bokokode/LinkedIn/"
+            "Bokokode\\LinkedInLaravel\\": "src/Bokokode/LinkedInLaravel/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Bokokode\\LinkedIn\\Tests\\": "tests"
+            "Bokokode\\LinkedInLaravel\\Tests\\": "tests"
         }
     },
     "repositories": [

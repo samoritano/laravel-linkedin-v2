@@ -7,7 +7,7 @@
  * @license   https://opensource.org/licenses/MIT MIT License
  */
 
-namespace Bokokode\LinkedIn\Facades;
+namespace Bokokode\LinkedInLaravel\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

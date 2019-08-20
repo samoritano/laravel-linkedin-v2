@@ -6,9 +6,9 @@
  * @license   https://opensource.org/licenses/MIT MIT License
  */
 
-namespace Bokokode\LinkedIn;
+namespace Bokokode\LinkedInLaravel;
 
-use Bokokode\LinkedIn\LinkedIn;
+use Bokokode\LinkedIn;
 
 class LinkedInLaravel extends LinkedIn
 {

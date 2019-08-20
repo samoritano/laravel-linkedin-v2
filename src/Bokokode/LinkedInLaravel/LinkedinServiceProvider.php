@@ -6,7 +6,7 @@
  * @license   https://opensource.org/licenses/MIT MIT License
  */
 
-namespace Bokokode\LinkedIn;
+namespace Bokokode\LinkedInLaravel;
 
 use Http\Adapter\Guzzle6\Client;
 use Illuminate\Support\ServiceProvider;
