@@ -45,7 +45,7 @@
             "type": "package",
             "package": {
                 "name": "bokokode/linkedin-v2-api-client",
-                "version": "@dev",
+                "version": "dev-master",
                 "type": "package",
                 "source": {
                     "url": "git@github.com:samoritano/linkedin-api-php-client-v2.git",
