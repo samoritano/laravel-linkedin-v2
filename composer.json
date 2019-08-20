@@ -44,11 +44,11 @@
         {
             "type": "package",
             "package": {
-                "name": "samoritano/linkedin-v2-api-client",
+                "name": "bokokode/linkedin-v2-api-client",
                 "version": "@dev",
                 "type": "package",
                 "source": {
-                    "url": "git@github.com:samoritano/LinkedIn-V2-API-client.git",
+                    "url": "/Users/sam/workspace/code/LinkedIn-V2-API-client",
                     "type": "git",
                     "reference": "master"
                 }
