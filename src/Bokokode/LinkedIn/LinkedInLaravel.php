@@ -8,7 +8,7 @@
 
 namespace Bokokode\LinkedIn;
 
-use Happyr\LinkedIn\LinkedIn;
+use Bokokode\LinkedIn\LinkedIn;
 
 class LinkedInLaravel extends LinkedIn
 {
