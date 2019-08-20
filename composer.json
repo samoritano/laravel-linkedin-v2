@@ -20,7 +20,7 @@
         "illuminate/contracts": "~5.0",
         "illuminate/http": "~5.0",
         "illuminate/support": "~5.0",
-        "happyr/linkedin-api-client": "~1.0",
+        "bokokode/linkedin-v2-api-client": "@dev",
         "php-http/guzzle6-adapter": "^1.1",
         "php-http/curl-client": "^1.7",
         "guzzlehttp/psr7": "^1.4",
@@ -48,9 +48,9 @@
                 "version": "@dev",
                 "type": "package",
                 "source": {
-                    "url": "/Users/sam/workspace/code/LinkedIn-V2-API-client",
+                    "url": "git@github.com:samoritano/laravel-linkedin-v2.git",
                     "type": "git",
-                    "reference": "master"
+                    "reference": "develop"
                 }
             }
         }
